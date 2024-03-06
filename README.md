@@ -9,3 +9,4 @@
   
 - :mailbox: How to reach me: :email: m.zhu23@nus.edu.sg; :email: mingchengzhu250@gmail.com
 
+![](https://github-readme-stats.vercel.app/api?username=JasonZuu)
