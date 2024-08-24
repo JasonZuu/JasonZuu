@@ -1,5 +1,5 @@
 ### Greetings! This is Mingcheng! 👋
-- :office: My status: I'm a full-time DPhil student at CHILab, University of Oxford (https://eng.ox.ac.uk/chi/) under the supervision of [Dr. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/).
+- :office: My status: I'm a full-time DPhil student at [CHILab, University of Oxford](https://eng.ox.ac.uk/chi/) under the supervision of [Dr. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/).
   
 - :man_student: I received an MRes Degree at Imperial College London in 2023 on my Master Thesis "CNN-based Pipeline for Fungal Burden Quantification in Whole Slide Images" under the supervision of [Prof. Reiko Tanaka](https://www.imperial.ac.uk/people/r.tanaka). Before that, I received a BEng degree from Sichuan University in China.
   
